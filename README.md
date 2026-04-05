@@ -1,4 +1,9 @@
 # DL-Assignment-3-Sentiment_Analysis
+#Name: Saksham Sharma
+Course: MCA (AI & ML)
+Subject: Deep Learning
+Assignment: 3
+Title: Text Sentiment Classification using RNN & LSTM
 
 ## 📌 Project Overview
 
