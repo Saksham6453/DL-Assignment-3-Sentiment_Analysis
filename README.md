@@ -90,7 +90,7 @@ LSTM overcomes the **vanishing gradient problem** of RNN using:
 Sentiment-Analysis-RNN-LSTM/
 │
 ├── Sentiment_Analysis_DL-3.ipynb
-├── DL_Assignment_3_Report.pdf
+├── Report.pdf
 ├── README.md
 ```
 
